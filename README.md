@@ -1,9 +1,11 @@
 ## hi.. ᓚᘏᗢ
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwsousa&show_icons=true&theme=cobalt)
-<a href="https://github.com/hwsousa/convoychat">
+
+<div>
+  <a href="https://beacons.ai/hwsousa">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hwsousa&layout=compact&langs_count=8&card_width=320&theme=cobalt" />
-</a>
+</div>
+
 
 ##
 
