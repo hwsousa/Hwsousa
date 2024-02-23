@@ -2,10 +2,10 @@
 
 
 <div>
-  <a href="https://beacons.ai/hwsousa">
-  (https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-  <img height=""180em scr="https://github-readme-stats.vercel.app/api?username=hwsousa&hide=contribs,prs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hwsousa&layout=compact&langs_count=8&card_width=320&theme=cobalt" />
+ 
+  <a href="https://github.com/hwsousa">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hwsousa&theme=cobalt&show_icons=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwsousa&layout=compact&langs_count=8&theme=cobalt"/>   
 </div>
 
 
