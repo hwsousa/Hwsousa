@@ -2,9 +2,9 @@
 
 
 <div>
- 
+ ![Build](https://img.shields.io/github/workflow/status/seuusuario/repositorio/CI)
+
   <a href="https://github.com/hwsousa">
-   ![Build](https://img.shields.io/github/workflow/status/hwsousa/repositorio/CI)
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hwsousa&theme=cobalt&show_icons=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwsousa&layout=compact&langs_count=8&theme=cobalt"/>   
 </div>
